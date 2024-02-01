@@ -142,7 +142,13 @@ You can also check [https://miningpoolstats.stream/alephium](https://miningpools
 - Discord: https://discord.gg/4tQU83Yq3Z
 - Telegram: https://t.me/vipornet
 
-⚠️ **Make sure you use the latest version of the mining software**
+⚠ **Make sure you use the latest version of the mining software**
+
+#### Cedric-crispin.com
+
+- Website: https://alephium.cedric-crispin.com/
+- Twiiter: https://twitter.com/Cedric_Crispin
+- Email: webmaster@cedric-crispin.com
 
 ### Alephium GPU-Miner
 
